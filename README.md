@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RealSauceDoctor
+- 👀 I’m interested in Video Games, 3D Modeling, Animation, Photography, Filmmaking, Scripting, Music and Illustration
+- 🌱 I’m currently learning JavaScript and WebGL
+- 💞️ I’m looking to collaborate on Websites (FrontEnd) or Game Designing new Intelectual Properties
+- 📫 How to reach me: 
